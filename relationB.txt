@@ -1,0 +1,100 @@
+B,0,Programmer,33078
+B,1,Analyst,22645
+B,2,Analyst,35181
+B,3,Programmer,29697
+B,4,Team Leader,44010
+B,5,Team Leader,39357
+B,6,Analyst,48253
+B,7,Analyst,49606
+B,8,Team Leader,23842
+B,9,Analyst,29981
+B,10,Team Leader,27469
+B,11,Team Leader,49461
+B,12,Team Leader,45931
+B,13,Team Leader,30674
+B,14,Analyst,21430
+B,15,Analyst,21126
+B,16,Programmer,34916
+B,17,Analyst,28981
+B,18,Team Leader,21272
+B,19,Programmer,49670
+B,20,Programmer,45154
+B,21,Analyst,29054
+B,22,Team Leader,31798
+B,23,Team Leader,26492
+B,24,Analyst,48868
+B,25,Analyst,22699
+B,26,Team Leader,21041
+B,27,Programmer,45251
+B,28,Programmer,35814
+B,29,Analyst,31136
+B,30,Programmer,31798
+B,31,Analyst,30521
+B,32,Analyst,47403
+B,33,Programmer,44642
+B,34,Analyst,29675
+B,35,Analyst,27145
+B,36,Analyst,44616
+B,37,Team Leader,46773
+B,38,Team Leader,23022
+B,39,Team Leader,40547
+B,40,Team Leader,49321
+B,41,Team Leader,39600
+B,42,Team Leader,38385
+B,43,Programmer,23033
+B,44,Programmer,41338
+B,45,Team Leader,41777
+B,46,Team Leader,31837
+B,47,Team Leader,46977
+B,48,Analyst,40218
+B,49,Team Leader,24137
+B,50,Programmer,28663
+B,51,Analyst,27401
+B,52,Team Leader,44634
+B,53,Team Leader,48544
+B,54,Programmer,30358
+B,55,Programmer,28465
+B,56,Analyst,26994
+B,57,Programmer,47451
+B,58,Analyst,20011
+B,59,Analyst,49819
+B,60,Team Leader,26179
+B,61,Team Leader,46239
+B,62,Programmer,46338
+B,63,Analyst,26656
+B,64,Team Leader,23627
+B,65,Programmer,47978
+B,66,Programmer,44355
+B,67,Analyst,40195
+B,68,Team Leader,42450
+B,69,Analyst,46580
+B,70,Programmer,42596
+B,71,Analyst,45553
+B,72,Analyst,49004
+B,73,Programmer,40950
+B,74,Team Leader,43547
+B,75,Analyst,39278
+B,76,Team Leader,41651
+B,77,Programmer,25761
+B,78,Analyst,40379
+B,79,Analyst,20522
+B,80,Analyst,39092
+B,81,Analyst,21265
+B,82,Analyst,39772
+B,83,Programmer,40170
+B,84,Team Leader,20607
+B,85,Team Leader,31321
+B,86,Team Leader,24847
+B,87,Analyst,20699
+B,88,Analyst,37901
+B,89,Team Leader,31881
+B,90,Analyst,30980
+B,91,Team Leader,47792
+B,92,Analyst,44337
+B,93,Analyst,24150
+B,94,Programmer,27402
+B,95,Team Leader,22950
+B,96,Analyst,39956
+B,97,Analyst,26122
+B,98,Programmer,47170
+B,99,Analyst,34381
